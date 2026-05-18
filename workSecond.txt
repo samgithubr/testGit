@@ -1,1 +1,2 @@
 this is a second file where have to do work not yet started 
+we now switched to sam branch and did some work on the workSecond.txt
