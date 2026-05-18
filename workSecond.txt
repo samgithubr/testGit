@@ -1,2 +1,5 @@
 this is a second file where have to do work not yet started 
 we are working in master branch in worksecond file and also going to work in sam branch later 
+we now switched to sam branch and did some work on the workSecond.txt
+
+we are editing the workSecond.txt on sam branch second time 
